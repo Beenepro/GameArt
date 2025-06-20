@@ -1,0 +1,33 @@
+OrlokGameAssets/
+├── assets/
+│   ├── player/
+│   │   ├── orlok_student.png              (Approx. 60x100 pixels, student form)
+│   │   ├── orlok_student_hit.png          (Approx. 60x100 pixels, student form, red tint/flash)
+│   │   ├── orlok_student_battle.png       (Approx. 60x100 pixels, student battle stance, ruby shard)
+│   │   ├── orlok_wizard.png               (Approx. 60x100 pixels, wizard form)
+│   │   ├── orlok_wizard_hit.png           (Approx. 60x100 pixels, wizard form, red tint/flash)
+│   │   ├── orlok_wizard_battle.png        (Approx. 60x100 pixels, storm summoning with dragon)
+│   │   ├── orlok_wizard_cloud.png         (Approx. 60x100 pixels, storm cloud shielding head)
+│   │   ├── orlok_vampire.png              (Approx. 60x100 pixels, vampire form, inspired by novel art)
+│   │   ├── orlok_vampire_hit.png          (Approx. 60x100 pixels, vampire form, red tint/flash)
+│   │   ├── orlok_vampire_hungry.png       (Approx. 60x100 pixels, gaunt and desperate form)
+│   │   ├── orlok_vampire_hungry_hit.png   (Approx. 60x100 pixels, hungry vampire, hit flash)
+│   │   └── orlok_vampire_battle.png       (Approx. 60x120 pixels, monstrous form, summoning rats/shadow)
+│   ├── obstacles/
+│   │   ├── rock.png                       (Approx. 50x50 pixels, jagged stone)
+│   │   ├── guard.png                      (Approx. 50x100 pixels, armored silhouette)
+│   │   ├── guard_hit.png                  (Approx. 50x100 pixels, guard, white tint/flash)
+│   │   ├── guard_alert.png                (Approx. 50x100 pixels, guard, alert posture, sword raised)
+│   │   ├── bat.png                        (Approx. 80x40 pixels, flying creature silhouette)
+│   │   ├── bat_hit.png                    (Approx. 80x40 pixels, bat, white tint/flash)
+│   │   ├── magic_proj.png                 (Approx. 30x30 pixels, arcane symbol/energy ball)
+│   │   └── obstacle_bookshelf.png         (Approx. 100x150 pixels, tall manor bookshelf, candle, cobwebs)
+│   ├── environment/
+│   │   ├── platform.png                   (Approx. 150x20 pixels, repeating stone/wood texture)
+│   │   ├── bg_layer1_mountains.png        (Approx. 1400x400 pixels, wide repeating distant mountains/castles)
+│   │   ├── bg_layer2_spires.png           (Approx. 1400x400 pixels, wide repeating closer spires/trees)
+│   │   ├── bg_layer3_mist.png             (Approx. 1400x400 pixels, wide repeating transparent mist/fog)
+│   │   ├── bg_layerx_manorhouse.png       (Approx. 1400x400 pixels, interior Drăcuș Manor, candlelight/books/spiders)
+│   │   ├── bg_layerx_solomanta.png        (Approx. 1400x400 pixels, exterior Solomanta spires, gloom and obsidian)
+│   │   └── bg_layerx_solomanta_interior.png (Approx. 1400x400 pixels, interior Solomanta, arcane vaults and runes)
+│   └── fx/
